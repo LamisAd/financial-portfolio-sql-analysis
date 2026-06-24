@@ -1,0 +1,24 @@
+A database for investment portfolio management was created and analyzed using SQL.
+
+The database evaluates portfolio allocation, client performance, asset performance, sector exposure, and portfolio profitability through SQL queries (SQLite was used).
+
+-Client Analysis:
+Which client invested the most?
+Which client had the highest return?
+How do clients rank based on portfolio performance?
+
+-Asset Analysis:
+Which asset yielded the highest return?
+Which asset yielded the lowest return?
+What is the profit/loss of each asset?
+
+-Sector Analysis:
+Which sector had the largest allocation?
+Which sector yielded the highest return?
+How concentrated is the portfolio?
+
+-Portfolio Analysis
+Current portfolio value
+Cost 
+Profit/loss
+Return percentage
